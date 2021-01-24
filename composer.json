@@ -2,6 +2,31 @@
   "require": {
     "php": "^7.4",
     "ext-mbstring": "*",
-    "ext-gd": "*"
+    "ext-gd": "*",
+    "ext-intl": "*",
+    "ext-bcmath": "*",
+    "ext-gmp": "*",
+    "ext-imagick": "*",
+    "ext-ftp": "*",
+    "ext-memcached": "*",
+    "ext-fileinfo": "*",
+    "ext-openssl": "*",
+    "ext-bz2": "*",
+    "ext-pdo_pgsql": "*",
+    "ext-ctype": "*",
+    "ext-curl": "*",
+    "ext-dom": "*",
+    "ext-hash": "*",
+    "ext-iconv": "*",
+    "ext-json": "*",
+    "ext-session": "*",
+    "ext-posix": "*",
+    "ext-XMLReader": "*",
+    "ext-SimpleXML": "*",
+    "ext-XMLWriter": "*",
+    "ext-zip": "*",
+    "ext-zlib": "*",
+    "ext-imap": "*",
+    "ext-exif": "*"
   }
 }
